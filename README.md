@@ -1,2 +1,2 @@
 # LeetCode
-![LeetCode](leetcode/leetcode.png)
+![LeetCode](leetcode.png)
